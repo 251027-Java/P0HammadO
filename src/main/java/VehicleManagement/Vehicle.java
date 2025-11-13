@@ -2,11 +2,13 @@ package VehicleManagement;
 
 public class Vehicle {
 
-    String make;
-    String model;
-    int year;
-    String color;
-    double price;
-    String VIN = "4Y1SL65848Z411439";
-    int mileage;
+    private String make;
+    private String model;
+    private int year;
+    private String color;
+    private double price;
+    private String VIN = "4Y1SL65848Z411439";
+    private int mileage;
+
 }
+
