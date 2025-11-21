@@ -1,0 +1,17 @@
+[
+  {
+    "userId": 1,
+    "name": "John Smith",
+    "role": "Driver"
+  },
+  {
+    "userId": 2,
+    "name": "Jane Doe",
+    "role": "Senior Driver"
+  },
+  {
+    "userId": 3,
+    "name": "Mike Johnson",
+    "role": "Driver"
+  }
+]

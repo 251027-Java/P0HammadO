@@ -1,0 +1,27 @@
+[
+  {
+    "incomingID": 1,
+    "VIN": "1FBSS3BL9DDA87010",
+    "issueDescription": "none"
+  },
+  {
+    "incomingID": 2,
+    "VIN": "2HGBH41JXMN109187",
+    "issueDescription": "front bumper damage"
+  },
+  {
+    "incomingID": 3,
+    "VIN": "2HGBH41JXMN109187",
+    "issueDescription": "none"
+  },
+  {
+    "incomingID": 4,
+    "VIN": "1HGBH41JXMN109186",
+    "issueDescription": "none"
+  },
+  {
+    "incomingID": 5,
+    "VIN": "1FBSS3BL9DDA87010",
+    "issueDescription": "none"
+  }
+]
