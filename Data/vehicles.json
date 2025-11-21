@@ -21,24 +21,24 @@
     "status": "IN_OFFICE"
   },
   {
+    "make": "Toyota",
+    "model": "Camry",
+    "VIN": "2HGBH41JXMN109187",
+    "year": 2021,
+    "status": "IN_OFFICE"
+  },
+  {
     "make": "Honda",
     "model": "Accord",
     "VIN": "1HGBH41JXMN109186",
     "year": 2020,
-    "status": "AT_AUCTION"
+    "status": "IN_OFFICE"
   },
   {
     "make": "Ferarri",
     "model": "488 Italia Spyder",
     "VIN": "1FBSS3BL9DDA87010",
     "year": 2020,
-    "status": "AT_AUCTION"
-  },
-  {
-    "make": "Toyota",
-    "model": "Camry",
-    "VIN": "2HGBH41JXMN109187",
-    "year": 2021,
-    "status": "OUTGOING"
+    "status": "IN_OFFICE"
   }
 ]
