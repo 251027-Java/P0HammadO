@@ -1,0 +1,44 @@
+[
+  {
+    "make": "Ford",
+    "model": "F-150",
+    "VIN": "3HGBH41JXMN109188",
+    "year": 2022,
+    "status": "IN_OFFICE"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado",
+    "VIN": "4HGBH41JXMN109189",
+    "year": 2019,
+    "status": "IN_OFFICE"
+  },
+  {
+    "make": "BMW",
+    "model": "X5",
+    "VIN": "5HGBH41JXMN109190",
+    "year": 2023,
+    "status": "IN_OFFICE"
+  },
+  {
+    "make": "Honda",
+    "model": "Accord",
+    "VIN": "1HGBH41JXMN109186",
+    "year": 2020,
+    "status": "AT_AUCTION"
+  },
+  {
+    "make": "Ferarri",
+    "model": "488 Italia Spyder",
+    "VIN": "1FBSS3BL9DDA87010",
+    "year": 2020,
+    "status": "AT_AUCTION"
+  },
+  {
+    "make": "Toyota",
+    "model": "Camry",
+    "VIN": "2HGBH41JXMN109187",
+    "year": 2021,
+    "status": "OUTGOING"
+  }
+]
