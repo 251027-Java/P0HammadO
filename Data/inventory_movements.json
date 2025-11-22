@@ -14,5 +14,29 @@
     "destination": "Metroauction",
     "gasCharge": 75.0,
     "movementDate": "2025-11-20T19:01:35.062735500"
+  },
+  {
+    "movementId": 3,
+    "VIN": "5FNYF28706B014716",
+    "userId": 0,
+    "destination": "COGauction",
+    "gasCharge": 32.56,
+    "movementDate": "2025-11-21T12:06:14.491967200"
+  },
+  {
+    "movementId": 4,
+    "VIN": "WBXPA73445P9EJHVN",
+    "userId": 0,
+    "destination": "REVauction",
+    "gasCharge": 150.0,
+    "movementDate": "2025-11-21T16:27:37.917041900"
+  },
+  {
+    "movementId": 5,
+    "VIN": "1HGCM82633A004512",
+    "userId": 0,
+    "destination": "Metroauction",
+    "gasCharge": 267.87,
+    "movementDate": "2025-11-21T20:08:32.328625200"
   }
 ]

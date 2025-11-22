@@ -23,5 +23,35 @@
     "incomingID": 5,
     "VIN": "1FBSS3BL9DDA87010",
     "issueDescription": "none"
+  },
+  {
+    "incomingID": 6,
+    "VIN": "5FNYF28706B014716",
+    "issueDescription": "front bumper damage"
+  },
+  {
+    "incomingID": 7,
+    "VIN": "WBXPA73445P9EJHVN",
+    "issueDescription": "front bumper damage"
+  },
+  {
+    "incomingID": 8,
+    "VIN": "WBXPA73445P9EJHVN",
+    "issueDescription": "none"
+  },
+  {
+    "incomingID": 9,
+    "VIN": "1HGCM82633A004512",
+    "issueDescription": "hail damage"
+  },
+  {
+    "incomingID": 10,
+    "VIN": "1HGCM82633A004512",
+    "issueDescription": "na"
+  },
+  {
+    "incomingID": 11,
+    "VIN": "1HGCM82633A004512",
+    "issueDescription": "none"
   }
 ]

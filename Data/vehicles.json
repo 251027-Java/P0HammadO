@@ -40,5 +40,40 @@
     "VIN": "1FBSS3BL9DDA87010",
     "year": 2020,
     "status": "IN_OFFICE"
+  },
+  {
+    "make": "Toyota",
+    "model": "Camry",
+    "VIN": "5FNYF28706B014716",
+    "year": 2022,
+    "status": "AT_AUCTION"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado",
+    "VIN": "1GAZGUBB4BC9T8Z2W",
+    "year": 2025,
+    "status": "IN_OFFICE"
+  },
+  {
+    "make": "Lamborghini",
+    "model": "Gallardo",
+    "VIN": "WBXPA73445P9EJHVN",
+    "year": 2015,
+    "status": "AT_AUCTION"
+  },
+  {
+    "make": "Toyota",
+    "model": "Tacoma",
+    "VIN": "3GNEK12T45G291087",
+    "year": 2024,
+    "status": "IN_OFFICE"
+  },
+  {
+    "make": "lambo",
+    "model": "gallardo",
+    "VIN": "1HGCM82633A004512",
+    "year": 2013,
+    "status": "AT_AUCTION"
   }
 ]

@@ -218,6 +218,7 @@ public class Main {
         repo.saveUser(new User(1, "John Smith", "Driver"));
         repo.saveUser(new User(2, "Jane Doe", "Senior Driver"));
         repo.saveUser(new User(3, "Mike Johnson", "Driver"));
+        repo.saveUser(new User(4, "Michael Jordan", "Manager"));
 
         repo.saveVehicle(new Vehicle("1HGBH41JXMN109186", "Honda", "Accord", 2020));
         repo.saveVehicle(new Vehicle("2HGBH41JXMN109187", "Toyota", "Camry", 2021));
@@ -237,5 +238,3 @@ public class Main {
         System.out.println("Sample data loaded!\n");
     }
 }
-
-//comments for push test
